@@ -3,7 +3,6 @@
   <img src="https://github.com/FilipaLino/GCN-Pose-Refinement/assets/102179022/8d6aafcc-fba8-4a8b-9134-0c0a32154d87" width="50%" height="50%">
 </p>
 
-## Overview
 This repository contains the implementation of a Graph Convolutional Network (GCN) designed for the refinement of estimated 3D poses. Our GCN model integrates spatial and temporal insights to enhance the accuracy of 3D human pose estimation, especially effective in scenarios with various types of occlusions. The model is trained using the [BlendMimic3D](https://github.com/FilipaLino/BlendMimic3D) dataset, which includes diverse occlusion scenarios, allowing the network to effectively learn and adapt to different occlusion types. For more detailed information about the project, interactive demos, and downloads related to the BlendMimic3D project, please visit our [project webpage](https://filipalino.github.io/filipalino.github.io-BlendMimic3D/).
 
 ## Model Description
