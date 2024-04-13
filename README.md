@@ -1,6 +1,6 @@
 # GCN-Pose-Refinement
 <p align="center">
-  <img src="https://github.com/FilipaLino/GCN-Pose-Refinement/assets/102179022/8d6aafcc-fba8-4a8b-9134-0c0a32154d87" width="70%" height="70%">
+  <img src="https://github.com/FilipaLino/GCN-Pose-Refinement/assets/102179022/8d6aafcc-fba8-4a8b-9134-0c0a32154d87" width="50%" height="50%">
 </p>
 
 ## Overview
@@ -9,7 +9,7 @@ This repository contains the implementation of a Graph Convolutional Network (GC
 ## Model Description
 The GCN model conceptualizes the human body as a graph structure with nodes representing body keypoints and edges denoting joint connections. It employs advanced graph convolutions that consider both spatial relationships and temporal continuity across frames. This method enables the model to accurately infer occluded or ambiguous keypoints in challenging environments.
 <p align="center">
-  <img src="https://github.com/FilipaLino/GCN-Pose-Refinement/assets/102179022/d9ec5c65-8c43-4790-b049-fd2a7228b6d9" width="70%" height="70%">
+  <img src="https://github.com/FilipaLino/GCN-Pose-Refinement/assets/102179022/d9ec5c65-8c43-4790-b049-fd2a7228b6d9" width="50%" height="50%">
 </p>
 
 
