@@ -22,7 +22,13 @@ The GCN model conceptualizes the human body as a graph structure with nodes repr
  ## Citation
 If you use this model in your research, please cite our paper: 
 ```
-[ citation format]
+@inproceedings{lino20243d,
+  title={3D Human Pose Estimation with Occlusions: Introducing BlendMimic3D Dataset and GCN Refinement},
+  author={Lino, Filipa and Santiago, Carlos and Marques, Manuel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4646--4656},
+  year={2024}
+}
 ```
 
 ## Acknowledgements
